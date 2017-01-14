@@ -1,0 +1,20 @@
+\ProvidesFile{datenumbergerman.ldf}
+
+\ThereforePhrases(1)={Dementsprechend}
+\ThereforePhrases(2)={Folglich}
+\ThereforePhrases(3)={Demnach}
+\ThereforePhrases(4)={Ergo}
+\ThereforePhrases(5)={Infolgedessen}
+\ThereforePhrases(6)={Mithin}
+\ThereforePhrases(7)={Also}
+\ThereforePhrases(8)={Deshalb}
+\ThereforePhrases(9)={Logischerweise}
+\ThereforePhrases(10)={Schlie\ss{}lich}
+\ThereforePhrases(11)={Demgem\"a\ss{}}
+\ThereforePhrases(12)={Trivialerweise}
+\ThereforePhrases(13)={Daraufhin}
+\ThereforePhrases(14)={Entsprechend}
+\ThereforePhrases(15)={Aus diesem Grund}
+\ThereforePhrases(16)={Es l\"asst sich zeigen, dass}
+
+\def\numphrases{16}
